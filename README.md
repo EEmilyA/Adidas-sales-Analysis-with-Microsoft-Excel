@@ -1,2 +1,2 @@
 # Adidas-sales-Analysis-with-Microsoft-Excel
-Analysis of Adidas Sales for 2020-2021
+## Documentation of Adidas Sales Performance for 2020-2021

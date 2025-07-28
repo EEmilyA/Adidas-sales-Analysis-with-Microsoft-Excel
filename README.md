@@ -1,12 +1,14 @@
 # Adidas-sales-Analysis-with-Microsoft-Excel
 ## Documentation of Adidas Sales Performance for 2020-2021
+
+
 ![Dashboard](https://github.com/EEmilyA/Adidas-sales-Analysis-with-Microsoft-Excel/blob/main/Adidas%20Dashboard%202.png)
 
 ### Overview
 This report aims to provide a comprehensive analysis of Adidas sales in the U.S. from 2020 to 2021,with focus on key metrics like profit and revenue generated, average operating margin, top performing regions and products etc.By analyzing Adidas sales performance  we aim to uncover trends, factors that led to success and suggest actionable insight to improve performance.
 
 ### Data Source
-The primary source use for this analyis was gotten from Kaggle an open source which contaisinformation of the company sales data for the period being analysed.
+The primary source use for this analyis was gotten from Kaggle[Source](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales) an open source which contaisinformation of the company sales data for the period being analysed.
 
 ### Objectives
 The objective of this analysis is to optimize Adidas’ sales strategy in the US, maximizing revenue and profit, considering differences across products, regions, retailers, and sales across different channels.By analizing:
@@ -37,4 +39,6 @@ The objective of this analysis is to optimize Adidas’ sales strategy in the US
 5. Sales Channel Mix:In-store sales (39.6%) were the strongest, but online sales (32.9%) showed significant potential for expansion.
 6. Seasonal Trend:Peak sales occurred in July and August, while March saw the lowest, suggesting strong seasonal buying behavior.
 7. Strong Profitability:The business maintained a healthy 42% operating margin, indicating efficient cost and revenue management across categories.
+
+### Statistical/Technical Analysis
 

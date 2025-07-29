@@ -30,13 +30,13 @@ The objective of this analysis is to optimize Adidas’ sales strategy in the US
 - Visualization: Charts(Bar, column, pie) were useed to visualize top cities, region, profit margins, profuct categories, etc.
 
 ### Results and Findings
-1. Top Performer: Men’s Street Footwear was the best-selling category, generating over $208M in sales.
-2. Underperforming Category: Women’s Athletic Footwear recorded the lowest sales at $106.6M, indicating a need for repositioning or increased marketing.
-3. Strong Regional Sales:The West region led with $269.9M in revenue, while the Midwest lagged at $135.8M, highlighting regional growth opportunities.
-4. Retail Channel Efficiency:West Gear and Foot Locker were top-performing retailers, whereas Amazon and Walmart contributed the least.
-5. Sales Channel Mix:In-store sales (39.6%) were the strongest, but online sales (32.9%) showed significant potential for expansion.
-6. Seasonal Trend:Peak sales occurred in July and August, while March saw the lowest, suggesting strong seasonal buying behavior.
-7. Strong Profitability:The business maintained a healthy 42% operating margin, indicating efficient cost and revenue management across categories.
+1. Top Performer: Men’s Street Footwear was the best-selling category, generating over $208 Million in sales.
+2. Underperforming Category: Women’s Athletic Footwear recorded the lowest sales at $106.6 Million, indicating a need for repositioning or increased marketing.
+3. Strong Regional Sales:The West region led with $269.9M in revenue, while the Midwest lagged at $135.8 Million, highlighting regional growth opportunities.
+4. Retail Channel Efficiency: West Gear and Foot Locker were top-performing retailers, whereas Amazon and Walmart contributed the least.
+5. Sales Channel Mix: In-store sales (39.6%) were the strongest, but online sales (32.9%) showed significant potential for expansion.
+6. Seasonal Trend: Peak sales occurred in July and August, while March saw the lowest, suggesting strong seasonal buying behavior.
+7. Strong Profitability: The business maintained a healthy 42% operating margin, indicating efficient cost and revenue management across categories.
 
 ### Statistical Analysis/ Technical Report
 For indepth report on my analysis: 
